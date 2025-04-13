@@ -16,7 +16,7 @@ timezone: Asia/Manila
 
 title: Be Human # the main title
 
-tagline: "<div>A Memento of a lifelong learning process</div><div style='padding-bottom: 10px;'></div>" # it will display as the subtitle
+tagline: "<div>A Memento of a lifelong learning process</div>" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Cybersecurity blog, Course notes, and Lab Writeups. Self-improvement.
