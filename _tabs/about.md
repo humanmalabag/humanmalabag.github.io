@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## **`Hello, Human!`**
+## `**Hello, Human!**`
 
 Welcome to my little corner of the Web. Here, we’ll be breaking and fixing ~~ourselves~~ stuff.
 
@@ -13,5 +13,5 @@ I may not have all the answers, but I’m poking everything until I find some.
 
 Follow along. Or don’t. I’ll still be here trying to figure it all out.
 
-> Posts on the way. Cleaning up from personal vault
+> Posts on the way. Cleaning up from personal vault.
 {: .prompt-warning}
