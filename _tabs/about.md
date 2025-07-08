@@ -3,12 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+### **`Hello, Human!`**
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-`Hello, Human!`
-
-Welcome to my little corner of the Web. Here, we’ll be breaking and fixing (ourselves?) stuff.
+Welcome to my little corner of the Web. Here, we’ll be breaking and fixing ~~ourselves~~ stuff.
 
 This blog is my vault to look back on, learn from, and grow with. It can be deep. It can be dumb. But it’ll always be pure and honest. 
 
