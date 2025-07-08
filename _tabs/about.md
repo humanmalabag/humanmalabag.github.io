@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## `**Hello, Human!**`
+## <code style="color : Red">**Hello, Human!**</code>
 
 Welcome to my little corner of the Web. Here, we’ll be breaking and fixing ~~ourselves~~ stuff.
 
