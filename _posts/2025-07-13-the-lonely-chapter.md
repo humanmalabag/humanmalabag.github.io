@@ -4,7 +4,7 @@ date: 2025-07-13 13:00:00 +0800
 description: A quiet chapter of growth you may be living through
 categories: [Random, Life]
 tags: [life]     # TAG names should always be lowercase
-author: Human
+author: humanmalabag
 image:
     path: /assets/images/thelonelychapter.jpg
 ---
