@@ -13,5 +13,5 @@ I may not have all the answers, but I’m poking everything until I find some.
 
 Follow along. Or don’t. I’ll still be here trying to figure it all out.
 
-> [!danger]
-Posts on the way. Cleaning up from personal vault.
+> Posts on the way. Cleaning up from personal vault.
+{: .prompt-danger }
