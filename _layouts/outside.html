@@ -5,10 +5,10 @@ layout: default
 {% include lang.html %}
 
 Go Outside
-
-<div class="row">
+<div class="outside-main">
+<div class="outside-row">
   {% for item in site.data.watchlist %}
-    <div class="column">
+    <div class="outside-column">
       <div class="content">
         <img src="{{ item.image }}" alt="{{ item.alt }}" style="width:100%">
         <h3>{{ item.title }}</h3>
@@ -16,4 +16,5 @@ Go Outside
       </div>
     </div>
   {% endfor %}
+</div>
 </div>
