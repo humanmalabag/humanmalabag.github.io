@@ -6,6 +6,7 @@ icon: fas fa-gamepad
 css: "/assets/css/outside.css"
 order: 4
 ---
+<h1>{{ page.title }}</h1>
 
 Go Outside!
 

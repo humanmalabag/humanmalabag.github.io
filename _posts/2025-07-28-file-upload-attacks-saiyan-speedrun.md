@@ -3,7 +3,7 @@ title: File Upload Attacks Saiyan Speedrun
 date: 2025-07-28 00:14:00 +0800
 description: HackTheBox File Upload Attacks exercises
 categories: [Level-Up, Cybersecurity]
-tags: [hack the box, walkthrough, file upload]     # TAG names should always be lowercase
+tags: [hack the box, walkthrough, file upload attacks]     # TAG names should always be lowercase
 author: humanmalabag
 image:
     path: /assets/images/fileuploadattacks-ss.png
