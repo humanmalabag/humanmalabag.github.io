@@ -19,4 +19,4 @@ They're right, there'll be temptations of going back. Back to the old ways, the 
 
 We better prepare ourselves for this long journey of ours. We may meet new circles in this chapter but as soon as we continue growing, we might walk this Lonely Chapter all over again. And this would be normal.
 
-Here's to getting comfortable with being uncomfortable.
+Cheers to getting comfortable with being uncomfortable.
