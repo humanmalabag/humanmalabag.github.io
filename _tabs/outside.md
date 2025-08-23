@@ -7,3 +7,5 @@ icon: fas fa-gamepad
 css: "assets/css/outside.css"
 order: 4
 ---
+
+Go Outside!
