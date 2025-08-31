@@ -9,7 +9,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			plugins: [starlightThemeFlexoki()],
-			title: 'My Docs',
+			title: 'Be Human',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
